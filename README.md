@@ -1,2 +1,2 @@
 # PhDCodes
-Codes developed for my PhD in Plasma Physics
+Codes developed for my PhD in Plasma Physics.
